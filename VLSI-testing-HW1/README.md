@@ -1,1 +1,1 @@
-"NTHU-VLSI_Testing2024" 
+"To use deductive-fault method to detect possible fault." 
